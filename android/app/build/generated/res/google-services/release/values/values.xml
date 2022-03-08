@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">545694039648-dhipe3brm0ldk9t12ots3u95gmr8pher.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">545694039648</string>
+    <string name="google_api_key" translatable="false">AIzaSyCid7GIW70-DCKkheWH0GVN7A36MSTFrtk</string>
+    <string name="google_app_id" translatable="false">1:545694039648:android:457acdd889f2c49d9c8d05</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCid7GIW70-DCKkheWH0GVN7A36MSTFrtk</string>
+    <string name="google_storage_bucket" translatable="false">dental-b473e.appspot.com</string>
+    <string name="project_id" translatable="false">dental-b473e</string>
+</resources>

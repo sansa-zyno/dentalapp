@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "545694039648",
+    "project_id": "dental-b473e",
+    "storage_bucket": "dental-b473e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545694039648:android:457acdd889f2c49d9c8d05",
+        "android_client_info": {
+          "package_name": "com.zynotech.dental_rescue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545694039648-dhipe3brm0ldk9t12ots3u95gmr8pher.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCid7GIW70-DCKkheWH0GVN7A36MSTFrtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545694039648-dhipe3brm0ldk9t12ots3u95gmr8pher.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
